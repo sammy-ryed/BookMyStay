@@ -3,7 +3,7 @@
  * @author YourName
  * @version 1.0
  */
-public class Main {
+public class UseCase1HotelBookingApp {
 
     /**
      * Main entry point of the application.
